@@ -1,4 +1,7 @@
-//15. Uma empresa contrata um vendedor a R$ 50,25 por dia. Crie um programa que solicite o número de dias trabalhados pelo vendedor e imprima o valor líquido a ser pago ao mesmo, sabendo que se ele trabalhou até 10 dias não tem direito á gratificação, se ele trabalhou acima de 10 dias e até 20 dias tem direito á gratificação de 20%, se ele trabalhou acima de 20 dias tem direito á gratificação de 30%. Sempre são descontados 10% de imposto de renda em cima do valor bruto.
+/*15. Uma empresa contrata um vendedor a R$ 50,25 por dia. Crie um programa que solicite o número de dias trabalhados 
+pelo vendedor e imprima o valor líquido a ser pago ao mesmo, sabendo que se ele trabalhou até 10 dias não tem direito 
+á gratificação, se ele trabalhou acima de 10 dias e até 20 dias tem direito á gratificação de 20%, se ele trabalhou acima 
+de 20 dias tem direito á gratificação de 30%. Sempre são descontados 10% de imposto de renda em cima do valor bruto.*/
 
 #include <stdio.h>
 

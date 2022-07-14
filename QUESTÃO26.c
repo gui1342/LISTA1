@@ -1,4 +1,5 @@
-//26. Fazer um programa para ler as coordenadas x e y de dois pontos e calcular a distância entre os dois pontos no plano. (Utilize a função sqrt (número), biblioteca math.h).
+/*26. Fazer um programa para ler as coordenadas x e y de dois pontos e calcular a distância 
+entre os dois pontos no plano. (Utilize a função sqrt (número), biblioteca math.h).*/
 
 #include <stdio.h>
 #include <math.h>

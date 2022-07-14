@@ -1,4 +1,5 @@
-//27. Escreva um programa que solicite 3 números em ponto flutuante e imprima a média aritmética e geométrica. (Utilize a função pow(base, expoente) da biblioteca math.h)
+/*27. Escreva um programa que solicite 3 números em ponto flutuante e imprima a média aritmética e 
+geométrica. (Utilize a função pow(base, expoente) da biblioteca math.h)*/
 
 #include <stdio.h>
 #include <math.h>

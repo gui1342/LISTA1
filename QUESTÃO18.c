@@ -1,4 +1,6 @@
-//18. Escreva um programa que leia o raio de um círculo e imprima seu diâmetro, o valor de sua circunferência e sua  ́area. Use o valor de 3,14159 para ”pi”. Faca cada um destes cálculos dentro da instrução (ou instrucões) printf e use o especificador de conversão %f.
+/*18. Escreva um programa que leia o raio de um círculo e imprima seu diâmetro, o valor de sua 
+circunferência e sua  ́area. Use o valor de 3,14159 para ”pi”. Faca cada um destes cálculos dentro 
+da instrução (ou instrucões) printf e use o especificador de conversão %f.*/
 
 #include <stdio.h>
 #include <math.h>

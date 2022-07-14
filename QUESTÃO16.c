@@ -1,4 +1,7 @@
-//16.Desenvolva um programa que calcule o salario liquido de um professor. Para elaborar o programa, É necessário possuir alguns dados, tais como o valor da hora aula, número de horas trabalhadas no mês e percentual de desconto do INSS. Em primeiro lugar, deve-se estabelecer o seu salário bruto para fazer o desconto e ter o valor do salario liquido. Obs.: o programa deve informar o salario bruto e salario liquido do professor.
+/*16.Desenvolva um programa que calcule o salario liquido de um professor. Para elaborar o programa, 
+É necessário possuir alguns dados, tais como o valor da hora aula, número de horas trabalhadas no mês e 
+percentual de desconto do INSS. Em primeiro lugar, deve-se estabelecer o seu salário bruto para fazer o 
+desconto e ter o valor do salario liquido. Obs.: o programa deve informar o salario bruto e salario liquido do professor.*/
 
 #include <stdio.h>
 
